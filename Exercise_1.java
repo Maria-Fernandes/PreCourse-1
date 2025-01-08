@@ -36,7 +36,8 @@ class Stack {
 // Driver code 
 class Main { 
     public static void main(String args[]) 
-    { 
+    {
+        // Stack
         Stack s = new Stack(); 
         s.push(10); 
         s.push(20); 
